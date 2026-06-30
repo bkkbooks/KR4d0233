@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0233/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齋
+  hash: sha256:f7f480b1c55b0769612f27ec66d325ed5401fa6b38e1442f4cc61e0ec3381ecd
+metadata:
+  title: 止齋先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 12:32:31.593029'
+  source:
+    repository: kanripo
+    path: KR4d0233/KR4d0233_000.txt
+hash: sha256:31e4beff876e327c7345c4356649cdc7cff1c48595279911ffdf6348ce2efd89
