@@ -431,6 +431,7 @@ markers:
       ', id: KR4d0233_krp_042-bkkkrnewl61}
   - {type: line-break, offset: 1070, content: '', id: KR4d0233_SBCK_042-3a06}
   - {type: punctuation, offset: 1079, content: (, id: KR4d0233_krp_042-bkkpn1}
+  - {type: voice, offset: 1079, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1080, content: /, id: KR4d0233_krp_042-bkkpn2}
   - {type: variant, offset: 1080, length: 1, content: 㡬, WYG: 幾}
   - {type: substitution, offset: 1080, original: 㡬, replacement: 幾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19434}}
@@ -1421,4 +1422,4 @@ markers:
   - {type: variant, offset: 3643, length: 0, content: '', WYG: 欽定四庫全書止齋集卷四十三宋陳傅良撰䇿}
   - {type: page-break, offset: 3643, content: '', id: KR4d0233_WYG_043-1a, image: WYG1150/WYG1150-0835a.png}
   back: []
-hash: sha256:cb9e6fd729032307c32e9b622311988f4de45efc9a2c1123be9f605791993b93
+hash: sha256:a8d56535d4758404ea1fd07db7f632ab1b5190534827fde2bc4ba9781c57cc2e

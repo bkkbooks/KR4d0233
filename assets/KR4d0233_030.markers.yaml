@@ -82,6 +82,7 @@ markers:
   - {type: substitution, offset: 175, original: 㡬, replacement: 幾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19434}}
   - {type: punctuation, offset: 178, content: (, id: KR4d0233_krp_030-bkkpn1}
   - {type: variant, offset: 178, length: 0, content: '', WYG: 闕三字}
+  - {type: voice, offset: 178, length: 4, name: note, id: n1}
   - {type: variant, offset: 179, length: 1, content: 捋, WYG: 将}
   - {type: punctuation, offset: 180, content: /, id: KR4d0233_krp_030-bkkpn2}
   - {type: variant, offset: 181, length: 1, content: 負, SBCK: 􅀒}
@@ -1392,4 +1393,4 @@ markers:
   - {type: variant, offset: 3523, length: 0, content: '', WYG: 欽定四庫全書止齋集巻三十一宋陳傅良撰表壽}
   - {type: page-break, offset: 3523, content: '', id: KR4d0233_WYG_031-1a, image: WYG1150/WYG1150-0747a.png}
   back: []
-hash: sha256:3f9630821b9c385dfb7b17d5aeb6561975f1d1d8d4f7d4cb61853be4fdafc869
+hash: sha256:9888a006e2f0e62a915fa1555f1463b327fbded0d64c74422ceaf01fb2f46a08

@@ -1029,6 +1029,7 @@ markers:
   - {type: variant, offset: 2880, length: 1, content: 䑓, WYG: 臺}
   - {type: substitution, offset: 2880, original: 䑓, replacement: 臺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20173}}
   - {type: punctuation, offset: 2882, content: (, id: KR4d0233_krp_035-bkkpn1}
+  - {type: voice, offset: 2882, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2883, content: /, id: KR4d0233_krp_035-bkkpn2}
   - {type: punctuation, offset: 2884, content: ), id: KR4d0233_krp_035-bkkpn3}
   - {type: page-break, offset: 2895, content: '', id: KR4d0233_WYG_035-10b, image: WYG1150/WYG1150-0777b.png}
@@ -1652,6 +1653,7 @@ markers:
   - {type: variant, offset: 4564, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 4564, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 4571, content: (, id: KR4d0233_krp_035-bkkpn4}
+  - {type: voice, offset: 4571, length: 36, name: note, id: n2}
   - {type: variant, offset: 4580, length: 1, content: 㩀, WYG: 據}
   - {type: substitution, offset: 4580, original: 㩀, replacement: 據, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19853}}
   - {type: punctuation, offset: 4582, content: /, id: KR4d0233_krp_035-bkkpn5}
@@ -1735,4 +1737,4 @@ markers:
   - {type: variant, offset: 4796, length: 0, content: '', WYG: 欽定四庫全書止齋集巻三十六宋陳傅良撰手書答}
   - {type: page-break, offset: 4796, content: '', id: KR4d0233_WYG_036-1a, image: WYG1150/WYG1150-0780c.png}
   back: []
-hash: sha256:87169fbdfe96c22d3f556f1479cc8c59e4bb29eaea1a18105d623139b55edf16
+hash: sha256:ee8f7cc636ca93e749970b8c359fce17d9b025ec50bab44dc6fd0991528b1d07

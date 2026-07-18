@@ -46,6 +46,7 @@ markers:
       ', id: KR4d0233_krp_019-bkkkrnewl6}
   - {type: line-break, offset: 83, content: '', id: KR4d0233_SBCK_019-1a07}
   - {type: punctuation, offset: 96, content: (, id: KR4d0233_krp_019-bkkpn1}
+  - {type: voice, offset: 96, length: 20, name: note, id: n1}
   - {type: page-break, offset: 100, content: '', id: KR4d0233_WYG_019-1b, image: WYG1150/WYG1150-0650b.png}
   - {type: punctuation, offset: 105, content: /, id: KR4d0233_krp_019-bkkpn2}
   - {type: substitution, offset: 106, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
@@ -1034,6 +1035,7 @@ markers:
       ', id: KR4d0233_krp_019-bkkkrnewl154}
   - {type: line-break, offset: 3036, content: '', id: KR4d0233_SBCK_019-6b01}
   - {type: punctuation, offset: 3044, content: (, id: KR4d0233_krp_019-bkkpn4}
+  - {type: voice, offset: 3044, length: 14, name: note, id: n2}
   - {type: variant, offset: 3052, length: 1, content: 淮, WYG: 准}
   - {type: punctuation, offset: 3054, content: /, id: KR4d0233_krp_019-bkkpn5}
   - {type: substitution, offset: 3054, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
@@ -2123,4 +2125,4 @@ markers:
   - {type: variant, offset: 5478, length: 0, content: '', WYG: 欽定四庫全書止齋集巻二十宋陳傅良撰}
   - {type: page-break, offset: 5478, content: '', id: KR4d0233_WYG_020-1a, image: WYG1150/WYG1150-0660a.png}
   back: []
-hash: sha256:507790e3da505999ee401593418af17f021fdc1199d84f89a7de76a52bc2f28b
+hash: sha256:7ead31b4884dde15b54689debe40dd66e52dcf3ec475c3418029e108a2a08460

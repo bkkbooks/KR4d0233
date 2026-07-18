@@ -436,6 +436,7 @@ markers:
   - {type: line-break, offset: 1193, content: '', id: KR4d0233_SBCK_033-3a09}
   - {type: substitution, offset: 1197, original: 寜, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19886}}
   - {type: punctuation, offset: 1209, content: (, id: KR4d0233_krp_033-bkkpn1}
+  - {type: voice, offset: 1209, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1210, content: /, id: KR4d0233_krp_033-bkkpn2}
   - {type: punctuation, offset: 1211, content: ), id: KR4d0233_krp_033-bkkpn3}
   - {type: 'kr:newline', offset: 1217, content: '
@@ -1025,6 +1026,7 @@ markers:
   - {type: line-break, offset: 2734, content: '', id: KR4d0233_SBCK_033-6a07}
   - {type: indent, offset: 2734, content: 　　　, id: KR4d0233_krp_033-bkkind31}
   - {type: punctuation, offset: 2740, content: (, id: KR4d0233_krp_033-bkkpn4}
+  - {type: voice, offset: 2740, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2742, content: ), id: KR4d0233_krp_033-bkkpn5}
   - {type: 'kr:newline', offset: 2742, content: '
 
@@ -1115,4 +1117,4 @@ markers:
   - {type: variant, offset: 3000, length: 0, content: '', WYG: 欽定四庫全書止齋集巻三十四宋陳傅良撰啟答}
   - {type: page-break, offset: 3000, content: '', id: KR4d0233_WYG_034-1a, image: WYG1150/WYG1150-0766a.png}
   back: []
-hash: sha256:66bf80a2ea5cc56dce673461c6be1dac237d47608979a7e89b6b662605fa7039
+hash: sha256:d45b3e3623d15b297ec46adaea70c6de7015199b6885c264136b57ea754c2161

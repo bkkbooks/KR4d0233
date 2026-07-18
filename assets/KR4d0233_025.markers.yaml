@@ -19,6 +19,7 @@ markers:
   - {type: line-break, offset: 4, content: '', id: KR4d0233_SBCK_025-1a03}
   - {type: indent, offset: 4, content: 　　　, id: KR4d0233_krp_025-bkkind2}
   - {type: punctuation, offset: 8, content: (, id: KR4d0233_krp_025-bkkpn1}
+  - {type: voice, offset: 8, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR4d0233_krp_025-bkkpn2}
   - {type: punctuation, offset: 13, content: ), id: KR4d0233_krp_025-bkkpn3}
   - {type: 'kr:newline', offset: 13, content: '
@@ -234,6 +235,7 @@ markers:
   - {type: line-break, offset: 619, content: '', id: KR4d0233_SBCK_025-2a05}
   - {type: indent, offset: 619, content: 　　　, id: KR4d0233_krp_025-bkkind13}
   - {type: punctuation, offset: 623, content: (, id: KR4d0233_krp_025-bkkpn4}
+  - {type: voice, offset: 623, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 626, content: /, id: KR4d0233_krp_025-bkkpn5}
   - {type: punctuation, offset: 629, content: ), id: KR4d0233_krp_025-bkkpn6}
   - {type: 'kr:newline', offset: 629, content: '
@@ -314,6 +316,7 @@ markers:
   - {type: line-break, offset: 821, content: '', id: KR4d0233_SBCK_025-2b04}
   - {type: indent, offset: 821, content: 　　　, id: KR4d0233_krp_025-bkkind18}
   - {type: punctuation, offset: 825, content: (, id: KR4d0233_krp_025-bkkpn7}
+  - {type: voice, offset: 825, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 828, content: /, id: KR4d0233_krp_025-bkkpn8}
   - {type: punctuation, offset: 831, content: ), id: KR4d0233_krp_025-bkkpn9}
   - {type: 'kr:newline', offset: 831, content: '
@@ -857,6 +860,7 @@ markers:
   - {type: line-break, offset: 2354, content: '', id: KR4d0233_SBCK_025-5a11}
   - {type: indent, offset: 2354, content: 　　　, id: KR4d0233_krp_025-bkkind41}
   - {type: punctuation, offset: 2358, content: (, id: KR4d0233_krp_025-bkkpn10}
+  - {type: voice, offset: 2358, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2360, content: /, id: KR4d0233_krp_025-bkkpn11}
   - {type: punctuation, offset: 2362, content: ), id: KR4d0233_krp_025-bkkpn12}
   - {type: 'kr:newline', offset: 2362, content: '
@@ -1214,6 +1218,7 @@ markers:
   - {type: variant, offset: 3491, length: 1, content: 䖏, WYG: 處}
   - {type: substitution, offset: 3491, original: 䖏, replacement: 處, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19924}}
   - {type: punctuation, offset: 3496, content: (, id: KR4d0233_krp_025-bkkpn13}
+  - {type: voice, offset: 3496, length: 42, name: note, id: n5}
   - {type: punctuation, offset: 3514, content: /, id: KR4d0233_krp_025-bkkpn14}
   - {type: substitution, offset: 3515, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: variant, offset: 3523, length: 1, content: 解, WYG: 觧}
@@ -1253,6 +1258,7 @@ markers:
   - {type: punctuation, offset: 3577, content: (, id: KR4d0233_krp_025-bkkpn19}
   - {type: variant, offset: 3577, length: 1, content: 傳, SBCK: 􅀓}
   - {type: variant, offset: 3577, length: 1, content: 傳, WYG: 傅}
+  - {type: voice, offset: 3577, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 3579, content: ), id: KR4d0233_krp_025-bkkpn20}
   - {type: substitution, offset: 3580, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: variant, offset: 3587, length: 1, content: 賛, WYG: 贊}
@@ -1420,4 +1426,4 @@ markers:
   - {type: variant, offset: 3997, length: 0, content: '', WYG: 欽定四庫全書止齋集巻二十六宋陳傅良撰}
   - {type: page-break, offset: 3997, content: '', id: KR4d0233_WYG_026-1a, image: WYG1150/WYG1150-0711a.png}
   back: []
-hash: sha256:abf891c68c45197924b7fc7f972ee8b50e08925527656c142d310ff89ecc5c78
+hash: sha256:c9975905398991c50494abee0081732cb67520ec7e0b97a5cc9a13a34646008c

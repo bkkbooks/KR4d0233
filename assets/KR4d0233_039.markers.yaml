@@ -24,6 +24,7 @@ markers:
   - {type: indent, offset: 23, content: 　, id: KR4d0233_krp_039-bkkind4}
   - {type: punctuation, offset: 24, content: (, id: KR4d0233_krp_039-bkkpn1}
   - {type: variant, offset: 24, length: 8, content: 元藳今蔵沈仲一家, WYG: ''}
+  - {type: voice, offset: 24, length: 8, name: note, id: n1}
   - {type: substitution, offset: 27, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20703}}
   - {type: punctuation, offset: 32, content: ), id: KR4d0233_krp_039-bkkpn2}
   - {type: 'kr:newline', offset: 32, content: '
@@ -363,6 +364,7 @@ markers:
   - {type: substitution, offset: 900, original: 崗, replacement: 岡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19903}}
   - {type: variant, offset: 907, length: 1, content: 能, SBCK: 􅀎}
   - {type: punctuation, offset: 908, content: (, id: KR4d0233_krp_039-bkkpn3}
+  - {type: voice, offset: 908, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 909, content: /, id: KR4d0233_krp_039-bkkpn4}
   - {type: punctuation, offset: 910, content: ), id: KR4d0233_krp_039-bkkpn5}
   - {type: variant, offset: 910, length: 1, content: 歲, SBCK: 􅀊}
@@ -1845,4 +1847,4 @@ markers:
   - {type: variant, offset: 5178, length: 0, content: '', WYG: 欽定四庫全書止齋集卷四十宋陳傅良撰序奉}
   - {type: page-break, offset: 5178, content: '', id: KR4d0233_WYG_040-1a, image: WYG1150/WYG1150-0810a.png}
   back: []
-hash: sha256:09436ab61582c9d1b437aca73b486080d83da889cc99e9300f1fe38724fb0a85
+hash: sha256:eb04643280da95f10a94a2396380e70eb5dcb366d803db0d45868b6425e419bc

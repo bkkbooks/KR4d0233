@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR4d0233_SBCK_001-1a03}
   - {type: indent, offset: 2, content: 　　　, id: KR4d0233_krp_001-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR4d0233_krp_001-bkkpn1}
+  - {type: voice, offset: 10, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR4d0233_krp_001-bkkpn2}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 暮}
   - {type: punctuation, offset: 20, content: ), id: KR4d0233_krp_001-bkkpn3}
@@ -135,6 +136,7 @@ markers:
   - {type: indent, offset: 250, content: 　　　, id: KR4d0233_krp_001-bkkind3}
   - {type: page-break, offset: 250, content: '', id: KR4d0233_WYG_001-2a, image: WYG1150/WYG1150-0501c.png}
   - {type: punctuation, offset: 254, content: (, id: KR4d0233_krp_001-bkkpn4}
+  - {type: voice, offset: 254, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 256, content: ), id: KR4d0233_krp_001-bkkpn5}
   - {type: 'kr:newline', offset: 256, content: '
 
@@ -985,6 +987,7 @@ markers:
       ', id: KR4d0233_krp_001-bkkkrnewl147}
   - {type: line-break, offset: 2527, content: '', id: KR4d0233_SBCK_001-6a08}
   - {type: punctuation, offset: 2534, content: (, id: KR4d0233_krp_001-bkkpn6}
+  - {type: voice, offset: 2534, length: 53, name: note, id: n3}
   - {type: punctuation, offset: 2550, content: /, id: KR4d0233_krp_001-bkkpn7}
   - {type: variant, offset: 2552, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 2552, length: 1, content: 𥘉, WYG: 初}
@@ -1613,4 +1616,4 @@ markers:
   - {type: variant, offset: 4212, length: 0, content: '', WYG: 欽定四庫全書止齋集卷二宋陳傅良撰}
   - {type: page-break, offset: 4212, content: '', id: KR4d0233_WYG_002-1a, image: WYG1150/WYG1150-0508c.png}
   back: []
-hash: sha256:2d6697338740c03144cef0899e47086f8b71bbadfc0f2c4b3631a46e282f318a
+hash: sha256:633cc633ef0bfa403773dcb4c551291ea48445b507170cb06dd71b72e7da6253

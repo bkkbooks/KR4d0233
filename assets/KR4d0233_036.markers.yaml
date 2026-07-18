@@ -127,6 +127,7 @@ markers:
   - {type: variant, offset: 323, length: 1, content: 鄘, SBCK: 􅅠}
   - {type: variant, offset: 323, length: 1, content: 鄘, WYG: 􅅠}
   - {type: punctuation, offset: 324, content: (, id: KR4d0233_krp_036-bkkpn1}
+  - {type: voice, offset: 324, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 327, content: /, id: KR4d0233_krp_036-bkkpn2}
   - {type: variant, offset: 328, length: 1, content: 鄘, SBCK: 􅅠}
   - {type: variant, offset: 328, length: 1, content: 鄘, WYG: 􅅠}
@@ -1515,4 +1516,4 @@ markers:
   - {type: variant, offset: 4279, length: 0, content: '', WYG: 欽定四庫全書止齋集巻三十七宋陳傅良撰}
   - {type: page-break, offset: 4279, content: '', id: KR4d0233_WYG_037-1a, image: WYG1150/WYG1150-0787c.png}
   back: []
-hash: sha256:beb40ef5f040b7e103a477948a29cdc454155b417f46fe8f81d1885d649641d6
+hash: sha256:9884a17fa768be3ab5444b531422ad33e01ae09dc7b31ef1b81e45e4463ae72b

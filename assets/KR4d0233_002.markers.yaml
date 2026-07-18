@@ -177,6 +177,7 @@ markers:
   - {type: line-break, offset: 399, content: '', id: KR4d0233_SBCK_002-1b13}
   - {type: indent, offset: 399, content: 　　　, id: KR4d0233_krp_002-bkkind6}
   - {type: punctuation, offset: 409, content: (, id: KR4d0233_krp_002-bkkpn1}
+  - {type: voice, offset: 409, length: 26, name: note, id: n1}
   - {type: punctuation, offset: 419, content: /, id: KR4d0233_krp_002-bkkpn2}
   - {type: punctuation, offset: 429, content: ), id: KR4d0233_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 429, content: '
@@ -1396,4 +1397,4 @@ markers:
   - {type: variant, offset: 3570, length: 0, content: '', WYG: 欽定四庫全書止齋集巻三宋陳傅良撰}
   - {type: page-break, offset: 3570, content: '', id: KR4d0233_WYG_003-1a, image: WYG1150/WYG1150-0515a.png}
   back: []
-hash: sha256:9017827bcbb1a918d891b20b2582a993ba41dbab6c6edad1fadcdab81f10737e
+hash: sha256:dfda6d5adea4fa7f36bcff6e61597098dae34cd816f58192d33bbb7b584d8eac

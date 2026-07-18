@@ -216,6 +216,7 @@ markers:
   - {type: line-break, offset: 569, content: '', id: KR4d0233_SBCK_013-2a05}
   - {type: indent, offset: 569, content: 　　　, id: KR4d0233_krp_013-bkkind8}
   - {type: punctuation, offset: 583, content: (, id: KR4d0233_krp_013-bkkpn1}
+  - {type: voice, offset: 583, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 587, content: /, id: KR4d0233_krp_013-bkkpn2}
   - {type: punctuation, offset: 591, content: ), id: KR4d0233_krp_013-bkkpn3}
   - {type: 'kr:newline', offset: 591, content: '
@@ -1203,6 +1204,7 @@ markers:
   - {type: indent, offset: 2869, content: 　　　　, id: KR4d0233_krp_013-bkkind39}
   - {type: variant, offset: 2877, length: 1, content: 詹, SBCK: 􅉟}
   - {type: punctuation, offset: 2885, content: (, id: KR4d0233_krp_013-bkkpn4}
+  - {type: voice, offset: 2885, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2887, content: /, id: KR4d0233_krp_013-bkkpn5}
   - {type: punctuation, offset: 2889, content: ), id: KR4d0233_krp_013-bkkpn6}
   - {type: 'kr:newline', offset: 2889, content: '
@@ -1269,6 +1271,7 @@ markers:
   - {type: line-break, offset: 3010, content: '', id: KR4d0233_SBCK_013-6b13}
   - {type: indent, offset: 3010, content: 　　　　, id: KR4d0233_krp_013-bkkind46}
   - {type: punctuation, offset: 3011, content: (, id: KR4d0233_krp_013-bkkpn7}
+  - {type: voice, offset: 3011, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 3014, content: /, id: KR4d0233_krp_013-bkkpn8}
   - {type: punctuation, offset: 3017, content: ), id: KR4d0233_krp_013-bkkpn9}
   - {type: 'kr:newline', offset: 3017, content: '
@@ -1332,6 +1335,7 @@ markers:
   - {type: variant, offset: 3113, length: 1, content: 舎, WYG: 舍}
   - {type: substitution, offset: 3113, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: punctuation, offset: 3115, content: (, id: KR4d0233_krp_013-bkkpn10}
+  - {type: voice, offset: 3115, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 3118, content: /, id: KR4d0233_krp_013-bkkpn11}
   - {type: punctuation, offset: 3120, content: ), id: KR4d0233_krp_013-bkkpn12}
   - {type: 'kr:newline', offset: 3120, content: '
@@ -1949,4 +1953,4 @@ markers:
   - {type: variant, offset: 4580, length: 0, content: '', WYG: 欽定四庫全書止齋集卷十四宋陳傅良撰}
   - {type: page-break, offset: 4580, content: '', id: KR4d0233_WYG_014-1a, image: WYG1150/WYG1150-0600c.png}
   back: []
-hash: sha256:2e4191b82a8f7ad9495df91975e11000a9726b0b583069daeb7e0f98ac6c57c5
+hash: sha256:0c475d8af6518116a3da738a42b26d41497a265a885e739056cf44321042eaa7
